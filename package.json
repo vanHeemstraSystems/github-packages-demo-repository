@@ -6,6 +6,9 @@
   "scripts": {
     "test": "exit 0"
   },
+  "publishConfig": {
+    "@vanheemstrasystems:registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vanHeemstraSystems/github-packages-demo-repository.git"
